@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Aladin-Regular';
+  src:  url('./Aladin-Regular.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'Aladin-Regular';
+  background: url('./run.png');
+}
